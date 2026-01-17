@@ -1,6 +1,6 @@
 import os
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAi_dky8eg3YQoXG1FuREWCxD-apkt9dcI"
+os.environ["GOOGLE_API_KEY"] = ""
 
 # AI LLM Model Access
 from langchain_google_genai import ChatGoogleGenerativeAI
